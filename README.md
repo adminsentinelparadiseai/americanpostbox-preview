@@ -1,2 +1,3 @@
 # americanpostbox-preview
-Design preview: American Post Box website redesign (ot the live site)
+
+Design preview: American Post Box website redesign (not the live site).
